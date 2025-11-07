@@ -1,3 +1,5 @@
+http://interviewdepth.com/
+
 🔸 Basics (Beginner Level)
  1. What is Angular? How is it different from AngularJS?
  2. What are Angular’s main features?
@@ -35,3 +37,65 @@
  28. How do you handle error handling in Angular applications?
  29. Explain the difference between pure and impure pipes.
  30. What are Angular interceptors and how do you use them?
+
+______________________________________________________________________________________________________
+
+
+𝗖𝗼𝗿𝗲 & 𝗩𝗲𝗿𝘀𝗶𝗼𝗻𝘀:
+
+1. Which Angular version have you worked on? Key changes in Angular 15 → 17
+2. What are Standalone Components? When to use them vs NgModules
+3. What are Ivy and AOT compilation? Benefits and tradeoffs
+4. Difference between Angular vs AngularJS
+
+𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲𝘀 & 𝗗𝗮𝘁𝗮 𝗕𝗶𝗻𝗱𝗶𝗻𝗴
+
+5. Difference between Components, Directives, and Pipes
+6. Types of data binding (interpolation, property, event, two-way)
+7. @Input / @Output — how do you pass data between components?
+8. @ViewChild vs @ContentChild — differences and use cases
+9. View encapsulation and when to override it
+
+𝗟𝗶𝗳𝗲𝗰𝘆𝗰𝗹𝗲 & 𝗗𝗢𝗠
+
+10. Angular lifecycle hooks (ngOnInit, ngOnChanges, ngAfterViewInit, ngOnDestroy)
+11. Which hook to use when placing focus on an input field?
+12. Change detection strategies (Default vs OnPush)
+
+𝗙𝗼𝗿𝗺𝘀 & 𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗼𝗻
+
+13. Template-driven vs Reactive forms
+14. How to create custom validators and async validators
+15. Difference between FormControl, FormGroup, FormBuilder
+
+𝗛𝗧𝗧𝗣, 𝗥𝗼𝘂𝘁𝗶𝗻𝗴 & 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆
+
+16. How do you call APIs with HttpClient? Error handling best practices
+17. What are HTTP Interceptors? Use cases (auth, logging, caching)
+18. Lazy loading modules — how to implement and why
+19. Route Guards (CanActivate, CanDeactivate, Resolve)
+20. How do you secure Angular apps (XSS prevention, token storage)?
+
+𝗥𝘅𝗝𝗦 & 𝗦𝘁𝗮𝘁𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+
+21. Difference between Promise vs Observable
+22. Core RxJS concepts: Observable, Subject, BehaviorSubject, ReplaySubject
+23. Common operators: map, switchMap, mergeMap, concatMap, debounceTime
+24. How to cancel HTTP requests on destroy (takeUntil pattern)
+25. Explain NgRx flow (Actions → Reducers → Selectors → Effects)
+26. What are Signals in Angular 17? Why use them?
+
+𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
+
+27. When to use OnPush change detection
+28. Use of trackBy in *ngFor
+29. Pure vs Impure pipes — when to use which
+30. How to reduce bundle size and improve load time
+
+𝗛𝗮𝗻𝗱𝘀-𝗢𝗻 / 𝗖𝗼𝗱𝗶𝗻𝗴
+
+31. Implement a debounced search box using RxJS
+32. Combine multiple arrays of objects in Angular
+33. Build a pagination component consuming a REST API
+34. Create and use a custom pipe
+
