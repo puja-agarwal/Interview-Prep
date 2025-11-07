@@ -1,0 +1,37 @@
+🔸 Basics (Beginner Level)
+ 1. What is Angular? How is it different from AngularJS?
+ 2. What are Angular’s main features?
+ 3. Explain the difference between Angular and React/Vue.
+ 4. What is a component in Angular?
+ 5. What is a module in Angular?
+ 6. What are directives in Angular? Types of directives?
+ 7. What is data binding in Angular? Different types?
+ 8. What is interpolation in Angular?
+ 9. What is dependency injection (DI) in Angular?
+ 10. What is the difference between Template-driven and Reactive forms?
+💡 Tip: Focus on understanding components, modules, data binding, and DI, as these are commonly asked in interviews.
+
+🔸 Intermediate Level
+ 11. What are services in Angular? Why do we use them?
+ 12. What is the difference between ngIf, ngSwitch, and ngFor?
+ 13. What are lifecycle hooks in Angular? Explain a few with examples.
+ 14. What is Angular CLI and why do we use it?
+ 15. How does routing work in Angular?
+ 16. What is lazy loading in Angular?
+ 17. What is an Angular guard? Types of guards?
+ 18. What is the difference between Subject, BehaviorSubject, and ReplaySubject in RxJS?
+ 19. How do Observables differ from Promises?
+ 20. What is Change Detection in Angular?
+💡 Tip: Practice routing, guards, RxJS, and lifecycle hooks — these are favorite topics for interviewers.
+
+🔸 Advanced Level
+ 21. What is Ahead-of-Time (AOT) compilation in Angular?
+ 22. Difference between ViewEncapsulation strategies in Angular?
+ 23. How do you optimize the performance of an Angular application?
+ 24. What is the role of zone.js in Angular?
+ 25. What is NgZone and how can you use it for performance?
+ 26. How does Angular handle state management? (NgRx, Akita, etc.)
+ 27. What are Angular decorators? Explain with examples.
+ 28. How do you handle error handling in Angular applications?
+ 29. Explain the difference between pure and impure pipes.
+ 30. What are Angular interceptors and how do you use them?
